@@ -7,7 +7,7 @@ unlaced
 essential
 coordination
 
-> random character 3
+> random character 7
 RT=`!M$
 
 > random integer 1 100 3
